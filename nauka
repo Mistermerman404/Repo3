@@ -1,0 +1,10 @@
+package testcases;
+
+public class nauka{
+
+	public static void main(String[] args)
+	{
+	
+    	System.out.println("Nauka jest trudna");
+	}}
+
